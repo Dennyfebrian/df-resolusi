@@ -4,5 +4,6 @@ rencana belajar
 *membuat website
 -belajar html dan css
 *membuat program
+*membuat softwere
 -belajar git
 -belajar membuat website
