@@ -1,0 +1,4 @@
+rencana belajar
+-belajar javascript
+belajar git
+belajar membuat website
