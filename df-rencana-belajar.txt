@@ -1,0 +1,6 @@
+rencana belajar
+-belajar javascript
+*es6
+*membuat website
+-belajar git
+-belajar membuat website
