@@ -3,5 +3,7 @@ rencana belajar
 *es6
 *membuat website
 -belajar html dan css
-*membuat game
+*membuat program
+*membuat softwere
+-belajar git
 -belajar membuat website
