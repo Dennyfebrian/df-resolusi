@@ -7,3 +7,4 @@ rencana belajar
 *membuat softwere
 -belajar git
 -belajar membuat website
+-belajar bahasa jepang
