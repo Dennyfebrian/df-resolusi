@@ -8,3 +8,4 @@ rencana belajar
 -belajar git
 -belajar membuat website
 -belajar bahasa jepang
+-belajar github
